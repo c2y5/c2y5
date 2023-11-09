@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sky</h1>
-<h3 align="center">A passionate Python & LuaU developer from New Zealand!</h3>
+<h3 align="center">A Python & LuaU developer from New Zealand!</h3>
 
 - 🌱 I’m currently learning **Python.**
 
