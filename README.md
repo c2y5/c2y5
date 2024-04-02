@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sky</h1>
-<h3 align="center">A Python developer from New Zealand! 🇳🇿</h3>
+<h1 align="center">Hi, I'm Sky</h1>
 
-- 🌱 I’m currently learning **Advanced Python.**
+Check out my project [Xyris Captcha](https://xyris-captcha.vercel.app/)!
+[![github stats](https://vercel-stats-omega.vercel.app/api?username=c2y5&theme=github_dark&show_icons=true&count_private=true)](https://github.com/c2y5)
 
-Check out my project [here](https://xyris-captcha.vercel.app/)!
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c2y5&show_icons=true&locale=en" alt="c2y5" /></p>
+[![most used languages](https://vercel-stats-omega.vercel.app/api/top-langs/?username=c2y5&theme=github_dark&show_icons=true&layout=compact)](https://github.com/c2y5)
