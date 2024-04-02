@@ -11,9 +11,11 @@
 <p align="center">
   <a href="https://github.com/c2y5">
     <img height=200 align="center" src="https://vercel-stats-omega.vercel.app/api?username=c2y5&theme=github_dark&show_icons=true&count_private=true" />
-  </a> &nbsp;
+  </a>
+</p>
+<br/>
+<p align="center">
   <a href="https://github.com/c2y5">
     <img height=200 align="center" src="https://vercel-stats-omega.vercel.app/api/top-langs/?username=c2y5&theme=github_dark&show_icons=true&layout=compact" />
   </a>
 </p>
-
