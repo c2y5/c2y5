@@ -1,10 +1,18 @@
 <h1 align="center">Hi, I'm Sky</h1>
 
-Check out my project [Xyris Captcha](https://xyris-captcha.vercel.app/)!
+<p align="center">Check out my project <a href="https://xyris-captcha.vercel.app/">Xyris Captcha</a>!</p>
 
-
-[![github stats](https://vercel-stats-omega.vercel.app/api?username=c2y5&theme=github_dark&show_icons=true&count_private=true)](https://github.com/c2y5)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=c2y5&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D)](https://github.com/c2y5)
-
-[![most used languages](https://vercel-stats-omega.vercel.app/api/top-langs/?username=c2y5&theme=github_dark&show_icons=true&layout=compact)](https://github.com/c2y5)
+<p align="center">
+  <a href="https://github.com/c2y5">
+    <img height=200 align="center" src="https://streak-stats.demolab.com?user=c2y5&theme=github-dark-blue&date_format=j%2Fn%5B%2FY%5D" />
+  </a>
+</p>
+<br/>
+<p align="center">
+  <a href="https://github.com/c2y5">
+    <img height=200 align="center" src="https://vercel-stats-omega.vercel.app/api?username=c2y5&theme=github_dark&show_icons=true&count_private=true" />
+  </a>
+  <a href="https://github.com/c2y5">
+    <img height=200 align="center" src="https://vercel-stats-omega.vercel.app/api/top-langs/?username=c2y5&theme=github_dark&show_icons=true&layout=compact" />
+  </a>
+</p>
