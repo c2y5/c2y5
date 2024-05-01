@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Sky</h1>
 
+<p align="center">Year 9 student living in New Zealand</p>
 <p align="center">Check out my project <a href="https://xyris-captcha.vercel.app/">Xyris Captcha</a>!</p>
 
 <p align="center">
