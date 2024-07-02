@@ -3,7 +3,7 @@
 <p align="center">Year 9 student living in New Zealand</p>
 <!-- <p align="center">Check out my project <a href="https://xyris-captcha.vercel.app/">Xyris Captcha</a>!</p> -->
 <p align="center">Check out my project: <a href="https://github.com/c2y5/EXA/">Python Encrypter - EXA</a>!</p>
-
+<p align="center">Socials: <a href=https://discord.com/users/725210901778661417>Discord</a> | <a href=https://stackoverflow.com/users/17830122/sky>Stack Overflow</a></p>
 
 <p align="center">
   <a href="https://github.com/c2y5">
