@@ -4,6 +4,6 @@
 <p align="center"><a href=https://i.amsky.xyz>https://i.amsky.xyz</a></p>
 <p align="center">
   <a href="https://github.com/c2y5">
-    <img height=200 align="center" src="https://vercel-stats-omega.vercel.app/api?username=c2y5&theme=github_dark&show_icons=true&count_private=true" />
+    <img height=200 align="center" src="https://vercel.amsky.xyz/api?username=c2y5&theme=github_dark&show_icons=true&count_private=true" />
   </a>
 </p
