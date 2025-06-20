@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm Sky</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi!+I'm+Sky!" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">Year 10 student living in New Zealand</p>
+<p align="center">A year 10 student living in New Zealand</p>
 <p align="center"><a href=https://i.amsky.xyz>https://i.amsky.xyz</a></p>
 <p align="center">
   <a href="https://github.com/c2y5">
