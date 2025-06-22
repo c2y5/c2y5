@@ -6,11 +6,11 @@
 
 <p align="center">A year 10 student living in New Zealand</p>
 <p align="center"><a href=https://i.amsky.xyz>https://i.amsky.xyz</a></p>
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/c2y5">
     <img height=200 align="center" src="https://vercel.amsky.xyz/api?username=c2y5&theme=github_dark&show_icons=true&count_private=true" />
   </a>
-</p
+</p-->
 <p align="center">
   <a href="https://github.com/c2y5">
     <img height=200 align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9331&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
