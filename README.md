@@ -14,5 +14,5 @@
 
 <p align="center"><strong>Visitor Count</strong></p>
 <div align="center">
-  <img src="https://count.getloli.com/get/@c2y5?theme=capoo-2" alt="Visitor Counter" />
+  <img src="https://count.getloli.com/get/@58747c9255cf?theme=capoo-2" alt="Visitor Counter" />
 </div>
