@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<p align="center">A year 10 student living in New Zealand</p>
+<p align="center">A year 11 student living in New Zealand</p>
 <p align="center"><a href=https://i.amsky.xyz>https://i.amsky.xyz</a></p>
 <p align="center">
   <a href="https://github.com/c2y5">
